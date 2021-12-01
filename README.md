@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**JadersonFelisbertoValerio/JadersonFelisbertoValerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Alguns detalhes sobre mim:
+### Alguns detalhes sobre mim:
 
 - 🔭 Eu atualmente trabalho como vendedor de Livros (Livrarias Curitiba Shopping Mueller, Curitiba)
 - ✨ Sou formado em Licenciatura de Ciências Biológicas (PUCPR)
