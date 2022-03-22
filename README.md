@@ -1,6 +1,6 @@
 ### Alguns detalhes sobre mim:
 
-- 🔭 Eu atualmente trabalho como vendedor de Livros (Livrarias Curitiba Shopping Mueller, Curitiba)
+- 🔭 Open Work (Em busca de uma nova jornada no mercado de trabalho)
 - ✨ Sou formado em Licenciatura de Ciências Biológicas (PUCPR)
 - 🌱 Eu atualmente estou cursando Analise e desenvolvimento de sistemas (UniDomBOSCO) ...
 - 💬 Pode me perguntar sobre: Livros e ou Biologia no geral
