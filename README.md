@@ -1,9 +1,7 @@
 ### Alguns detalhes sobre mim:
 
-- 🔭 Open Work (Em busca de uma nova jornada no mercado de trabalho)
 - ✨ Sou formado em Licenciatura de Ciências Biológicas (PUCPR)
-- 🌱 Eu atualmente estou cursando Analise e desenvolvimento de sistemas (UniDomBOSCO) ...
-- 💬 Pode me perguntar sobre: Livros e ou Biologia no geral
+- Atualmente estou no ramo livreiro, atuo como promotor de vendas, Vendedor, Representante da editora Record na região Sul do Brasil.
 - 😄 Pronouns: Ele/Dele...
 
 Meu Curriculo Lattes
